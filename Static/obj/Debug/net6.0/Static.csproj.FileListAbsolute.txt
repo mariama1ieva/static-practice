@@ -1,0 +1,5 @@
+C:\Users\Asus\source\repos\Static\Static\obj\Debug\net6.0\Static.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Static\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Static\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Static\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Static\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
